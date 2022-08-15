@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cdahcro=7=*qxm-()a&3w0egrkby@4865dt)^)b_2k*k6s02@p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['comparetheprice.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
